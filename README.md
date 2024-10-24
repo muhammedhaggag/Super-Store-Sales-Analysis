@@ -1,2 +1,2 @@
 # Super-Store-Sales-Analysis
-![Overview Dashboard](Orders.png)
+![Overview Dashboard](Orders.PNG)
